@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Romeo Gatchalian	romeo@gathca
 
 # THANKS
 
